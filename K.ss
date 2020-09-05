@@ -8,6 +8,8 @@ _-pXzLl6L0t8YpJBskoW_6MB6mwSDsIDODIyH9_W9MM|Support|Lifetime
 3dEKthI962r4WNmLaumOHW1PtKV0ePJsOwFKkuf73Sk|Support|Lifetime
 RtRmHVercH9KGiuCKUCE_SB0gIvxkl8PSQG86HIL1WA|Support|Lifetime
 x1qcN3K0dyd0zvojmeCc3naFFyzQpoRFn813pg1fCD4|VIP|Lifetime
+3iVguKLaCUurXcpR_DnwUWmNuIYQKaR5MeaAzBd6eAM|VIP|Lifetime
+WWwQYN_DCE1QtZAyT8G1w7TOdMjrpIcVr-H760-KBR0|VIP|Lifetime
 
 
 T6yyX58tzIo32XKfX4igfZV7lN1KXfE9aOGeT5Qskmk|Donator|06/11/2020
@@ -24,9 +26,7 @@ aoMxrsB7bPptsAsL4oe20Pymfaupg4u9zHI9G-8vlrk|Donator|06/11/2020
 MfnUxlAAtpKumIyo5U5qk_pjKuUHvFXsLKzoQexv7gw|Donator|06/11/2020
 kg_mcW44QJrriBOt8iX-tz5xKpzUv2Xn0j_XmE_6_fU|Donator|06/11/2020
 YWcCnAtwbGyKtV42CwT0lywWzxInjO0aDp3bWHRxHyU|Donator|06/11/2020
-3iVguKLaCUurXcpR_DnwUWmNuIYQKaR5MeaAzBd6eAM|Donator|06/11/2020
 yO0NHCX-gKOiN31VrC784C-sfbylMAxoob4gUQ-LzK8|Donator|06/11/2020
-WWwQYN_DCE1QtZAyT8G1w7TOdMjrpIcVr-H760-KBR0|Donator|06/11/2020
 nsTMGJwhkOB5KlCjEKR5ZKKVCtCBodDhYBz96E1z4EY|Donator|06/11/2020
 IRswn4zHhca9rSIkeyv0sFsNCM7xhAbIpFDzP8GEze0|Donator|06/11/2020
 ZTV4jPPR-5cLEXwMVIxnCZOdLpbCXlFLg7DbrUZAP3c|Donator|06/11/2020
